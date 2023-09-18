@@ -13,4 +13,5 @@ int main() {
 
     std::cout << "Đa thức sau khi giải: " << result << "x^0" << std::endl;
     return 0;
+    return 0;
 }
